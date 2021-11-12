@@ -7,7 +7,9 @@ Repositorio con las prácticas y tareas de la optativa Evolutionary Computing im
 3. Optimización de la función de Ackley y Rastrigin por algoritmos genéticos
 4. Problema de la mochila y problema del viajante (TSP) por algoritmos genéticos
 5. Dibujo de un paisaje usando fractales
-6. Optimización de la Aclkey y Rastrigin por Enjambre de Partícula (PSO)
+6. Optimización de la Ackley y Rastrigin por Enjambre de Partícula (PSO)
+7. Sistemas de partículas e influencia de vecinos y adyacentes
+8. Redes de Kohonen/Mapas autoorganizados de 40 países
 
 ## Tareas
 1. Concepto de Evolución del libro del doctor Galindo
