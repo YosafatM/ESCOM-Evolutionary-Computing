@@ -10,8 +10,12 @@ Repositorio con las prácticas y tareas de la optativa Evolutionary Computing im
 6. Optimización de la Ackley y Rastrigin por Enjambre de Partícula (PSO)
 7. Sistemas de partículas e influencia de vecinos y adyacentes
 8. Redes de Kohonen/Mapas autoorganizados de 40 países
+9. Autómatas Celulares
 
 ## Tareas
 1. Concepto de Evolución del libro del doctor Galindo
 2. Hessiano de una función con 2 variables y otra con 3
 3. Cuestionario sobre Inteligencia de Enjambre del paper Swarm intelligence in animals and humans
+
+Algunos de los archivos no son de mi autoría, como el paper del Spider Monkey Optimization y su código,
+así como algunos códigos realizador por el profesor Trigueros u otros doctores.
